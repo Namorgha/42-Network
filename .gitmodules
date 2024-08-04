@@ -1,0 +1,12 @@
+[submodule "Libft"]
+	path = Libft
+	url = https://github.com/Namorgha/Libft
+[submodule "Ft_printf"]
+	path = Ft_printf
+	url = https://github.com/Namorgha/Ft_printf
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/Namorgha/get_next_line
+[submodule "philosophers"]
+	path = philosophers
+	url = https://github.com/Namorgha/philosophers
